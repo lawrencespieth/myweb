@@ -22,6 +22,7 @@ header
 	width: 910px;
 	padding: 25px;
 	background-color: blue;
+	margin-bottom: 10px;
 }
 
 nav
@@ -29,6 +30,7 @@ nav
 	width: 940px;
 	background-color: purple;
 	padding: 10px;
+	margin-bottom: 10px;
 }
 nav li
 {
@@ -39,15 +41,26 @@ nav li
 
 aside
 {
+	width: 200px;
+	height: 400px;
+	padding: 10px;
+	margin: 0 10px 10px 0;
 	background-color: red;
+	float: left;
 }
 
 section
 {
+	width: 680px;
+	height: 400px;
+	padding: 10px;
+	margin: 0 0 10px 0;
 	background-color: green;
+	float: right;
 }
 
 footer
 {
 	background-color: orange;
+	clear: both;
 }
