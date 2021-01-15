@@ -42,7 +42,6 @@ nav li
 aside
 {
 	width: 200px;
-	height: 400px;
 	padding: 10px;
 	margin: 0 10px 10px 0;
 	background-color: red;
@@ -52,7 +51,6 @@ aside
 section
 {
 	width: 680px;
-	height: 400px;
 	padding: 10px;
 	margin: 0 0 10px 0;
 	background-color: green;
