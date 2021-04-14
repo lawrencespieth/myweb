@@ -1,0 +1,70 @@
+body
+{
+  background-color: black;
+}
+
+header
+{
+	height: 100px;
+}
+
+nav li
+{
+	display: inline;
+	list-style-type: none;
+}
+
+aside
+{
+	height: 600px;
+}
+
+section
+{
+	height: 600px;
+}
+
+footer
+{
+	height: 100px;
+}
+
+.container_12
+{
+  background-color: white;
+}
+
+.red
+{
+  background-color: red;
+}
+
+.orange
+{
+  background-color: orange;
+}
+
+.yellow
+{
+  background-color: yellow;
+}
+
+.green
+{
+  background-color: green;
+}
+
+.blue
+{
+  background-color: blue;
+}
+
+.indigo
+{
+  background-color: indigo;
+}
+
+.violet
+{
+  background-color: violet;
+}
